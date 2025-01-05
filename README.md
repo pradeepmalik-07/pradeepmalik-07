@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Pradeep Kumar Malik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.perfettosolutions.in/static/media/full-stack-development.7835ddbfd9d23e02b60c.gif">
+<img align="right" alt="coding" height="280px" width="550" src="https://www.perfettosolutions.in/static/media/full-stack-development.7835ddbfd9d23e02b60c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepmalik-07&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepmalik-07" /> </p>
 
